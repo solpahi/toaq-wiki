@@ -141,3 +141,9 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
   This proposal could also be implemented with **ma**, **hi** and **co** as sentence prefixes (just like the current **ma**), but with the last two still binding **hoa**. The only difference would be the tone used for indirect questions (fifth – **hit** – instead of **hip** as above).
   
   (Note: if you want to include both a direct and an indirect question in your sentence at the same time, you'll need to differentiate between the two **hoa**'s. Ideally there would be a separate word for **hi**'s and **co**'s **hoa**, but for now you can use **hoihoar** (‘outermost **hoa** in the sentence’): **Hin bun duan sub hip pun tuan muam hoap hoiphoar moq** = ‘Who was the one you didn't know who had killed?’.)
+  
+  * <b>Exhibitor slot</b> <a name="exhibitor" href="#exhibitor">#</a> *by* Hoemāı; *status* unknown (April 2019)
+    The exhibitor slot is a new place type for the purpose of serialization. Its abbreviation is `e`. It works as follows:
+    In a serial predicate only(!), the exhibitor place `e` turns the property (the predicate) of a tail **rảı** into **lú rảı hóa** in the expansion.
+Example: Let **kaqhūa** have the signature `[() (c) (c e)]`. The serial predicate **kaqhūa jỉ** would expand into **lủ kảqhūa hóa jí**. Thus, **káqhūa jỉ** = **lú kảqhūa hóa jí**, "my eyes". 
+Outside of serial predicates, the exhibitor slot acts like a `c` slot: **Kảqhūa ní jí** "This is an eye of me."
